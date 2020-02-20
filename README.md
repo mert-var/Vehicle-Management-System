@@ -13,8 +13,14 @@ Proje gerçekleştirimi ile beraber öğrencilerin nesneye yönelik programlama 
 ### Projenin İsterleri
 
 • Veri Girişi
+
 • Veri Listeleme
+
 • Veri Güncelleme
+
 • Projede Encapsulation, Inheritance, Polymorphism, Abstraction yapılarının (hepsinin) kullanılması gerekmektedir.
+
 • Yapıcı (constuctor) metotları (parametreli ve parametresiz olarak en az iki) yazılacak.
+
 • Tüm özellikler için get, set metotları tanımlanacak.
+
