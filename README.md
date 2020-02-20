@@ -18,13 +18,13 @@ Proje gerçekleştirimi ile beraber nesneye yönelik programlama yapısının an
 
     • Veri Güncelleme
     
-    • Taşıtların, markası, yakıt türü (motorlu), hızı, yolcu sayısı, tekerlek sayısı, fiyatı, üretim yılı ve rengi özellikleri 
-    olmalı.
+    • Taşıtların, markası, yakıt türü (motorlu), hızı, yolcu sayısı, tekerlek sayısı, fiyatı, üretim yılı ve 
+    rengi özellikleri olmalı.
     
-    • Taşıtlar, hızlanabilir, yavaşlayabilir veya durabilir (hava taşıtları için dikkat edilmesi gereken unsurlar bulunmakta 
-    durması için iniş yapmış olmalı).
+    • Taşıtlar, hızlanabilir, yavaşlayabilir veya durabilir (hava taşıtları için dikkat edilmesi 
+    gereken unsurlar bulunmakta durması için iniş yapmış olmalı).
 
-    • Projede Encapsulation, Inheritance, Polymorphism, Abstraction yapılarının (hepsinin) kullanılması gerekmektedir.
+    • Projede Encapsulation, Inheritance, Polymorphism, Abstraction yapılarının kullanılması gerekmektedir.
 
     • Yapıcı (constuctor) metotları (parametreli ve parametresiz olarak en az iki) yazılacak.
 
